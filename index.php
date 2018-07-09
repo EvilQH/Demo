@@ -1,6 +1,9 @@
 <?php
-echo "Hello World  死亡诗社所";
+echo "Hello World";
 
 
 $demo = "PHP";
+
+
+var_dump($demo);
 ?>
